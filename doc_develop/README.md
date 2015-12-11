@@ -55,7 +55,7 @@ curl -X GET \
     https://api.bmob.cn/1/classes/GameScore
 ```
 
-再一次请求中，你需要指定的HTTP方法，URL，sessionToken等HTTP头均可以在BaseReq中指定，
+再一次请求中，你需要指定的HTTP方法，URL，sessionToken等均可以在BaseReq中指定，
 APP验证需要的KEY等在RestConfig中指定
 数据段则在转成[]byte类型后传入
 上传不同类型的格式时，需要指定编码格式，默认为text/plain，
