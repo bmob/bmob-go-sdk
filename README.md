@@ -91,5 +91,3 @@ Bmob基础方法，用于完成REST API请求
 
 技术邮箱：support@bmob.cn
 =======
-# bmob-go-sdk
-Bmob Go SDK
