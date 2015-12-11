@@ -5,7 +5,7 @@ Go SDK封装了Bmob RESTful API，但并不包含功能封装，如果需要调�
 
 ## 快速入门
 
-建议您在阅读本开发文档之前，先阅读我们提供的 [go快速入门文档](https://github.com/kassiansun/bmob-go-sdk/tree/master/doc_quickstart)，便于您后续的开发。
+建议您在阅读本开发文档之前，先阅读我们提供的 [go快速入门文档](https://github.com/bmob/bmob-go-sdk/tree/master/doc_quickstart)，便于您后续的开发。
 
 
 ## 应用程序

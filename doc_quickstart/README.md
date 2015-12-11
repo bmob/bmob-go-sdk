@@ -8,7 +8,7 @@ Bmob Go SDK开发文档
 
 ### SDK下载
 
-go get github.com/kassiansun/bmob-go-sdk
+go get github.com/bmob/bmob-go-sdk
 
 
 ## 运行效果
@@ -21,7 +21,7 @@ package main
 import (
 	"log"
 
-	"github.com/kassiansun/bmob-go-sdk"
+	"github.com/bmob/bmob-go-sdk"
 )
 
 var (

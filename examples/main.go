@@ -5,7 +5,7 @@ import (
 	//	"fmt"
 	"log"
 
-	"github.com/kassiansun/bmob-go-sdk"
+	"github.com/bmob/bmob-go-sdk"
 )
 
 var (
