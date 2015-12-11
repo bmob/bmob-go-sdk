@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Bmob Go SDK开发文档
 
 ===============
@@ -73,16 +72,11 @@ func main() {
 
 ## 类库说明
 
-* RestConfig
+* RestConfig - Bmob配置类，使用的时候需要修改里面的配置信息
 
-Bmob配置类，使用的时候需要修改里面的配置信息
+* 数据类型 - 封装了Bmob预定义的数据类型，用户可在此基础上进行定制，在users.go等文件里定义
 
-* 数据类型
-Bmob预定义的数据类型，用户可在此基础上进行定制
-
-* DoRestRequest
-
-Bmob基础方法，用于完成REST API请求
+* DoRestRequest - Bmob基础方法，用于完成REST API请求
 
 # Bmob官方信息
 
@@ -91,7 +85,3 @@ Bmob基础方法，用于完成REST API请求
 问答社区：[http://wenda.bmob.cn](http://wenda.bmob.cn)
 
 技术邮箱：support@bmob.cn
-=======
-# bmob-go-sdk
-Bmob Go SDK
->>>>>>> 583503802377cd04886532296416665711ad04dc
